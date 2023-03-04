@@ -1,9 +1,6 @@
 # [![yopzman's header](./images/yopzman-banner.jpg)](https://yopzman.my.id/)
 
 <p align=center>
-  <a href="https://t.me/tfkhdyt">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
-  </a>&nbsp;
   <a href="https://facebook.com/ngab.yopman">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a>&nbsp;
