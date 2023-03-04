@@ -7,8 +7,8 @@
   <a href="https://facebook.com/ngab.yopman">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a>&nbsp;
-  <a href="https://twitter.com/KobbaYovie">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">
+  <a href="http://discordapp.com/users/349874541784334337">
+    <img height="28" src="https://www.svgrepo.com/show/353655/discord-icon.svg">
   </a>&nbsp;
     <a href="https://twitter.com/KobbaYovie">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">
@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/tfkhdyt/web-portfolio/main/public/icons/java.svg" height="30" title="Java" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30" title="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" title="PHP" />
-  <img src="https://id.wikipedia.org/wiki/Go_(bahasa_pemrograman)#/media/Berkas:Go_Logo_Blue.svg" height="30" title="Go" />
+  <img src="https://www.svgrepo.com/show/353795/go.svg" height="30" title="Go" />
 </span>
 
 ### Equipment 🧰
