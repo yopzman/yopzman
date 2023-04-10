@@ -67,7 +67,7 @@
 
 - `Laptop` - Acer E5 475G
   - `CPU` - Intel Core i5-7200U
-  - `RAM` - 12GB DDR4 2400Mhz
+  - `RAM` - 24GB DDR4 2400Mhz
   - `GPU` - Intel HD Grapich 620 & nVidia Geforce 940MX
   - `Operating System` - Windows 10 Pro & Hackintosh Ventura 13.2.1
 - `Text Editor` - Atom
