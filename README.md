@@ -10,7 +10,7 @@
     <a href="https://twitter.com/KobbaYovie">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/yovie-anugrah-adithya-kobba-19a55221b/"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/adithyakobba/"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://instagram.com/adithyakobba_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
   <!-- <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QjM3QzgxNUEtNDBGRi00MTRBLThFMjAtOEQxNDk4M0FCRDdG"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
 </p>
