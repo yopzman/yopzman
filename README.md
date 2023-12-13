@@ -8,7 +8,7 @@
     <img height="28" src="https://www.svgrepo.com/show/353655/discord-icon.svg">
   </a>&nbsp;
     <a href="https://twitter.com/KobbaYovie">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/adithyakobba/"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://instagram.com/adithyakobba_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
