@@ -69,7 +69,7 @@
   - `CPU` - Intel Core i5-7200U
   - `RAM` - 24GB DDR4 2400Mhz
   - `GPU` - Intel HD Grapich 620 & nVidia Geforce 940MX
-  - `Operating System` - Windows 10 Pro & Hackintosh Ventura 13.2.1
+  - `Operating System` - Windows 10 Pro & Hackintosh Ventura 13.6.9
 - `Text Editor` - Atom
 - `Browser` - Microsoft Edge, Brave
 - `Mobile Phone` - Poco M4 Pro
