@@ -16,7 +16,7 @@
   <a href="https://github.com/yopzman"><img src="https://img.shields.io/github/followers/tfkhdyt?label=yopzman&style=social"/></a>
 </p>
 
-### Junior Full Stack Developer | Information System Student | AI Enthusiast
+### Junior Full Stack Developer | Information System Student 
 
 ### About Me 👨🏻
 
