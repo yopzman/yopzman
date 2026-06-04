@@ -10,7 +10,7 @@
 <!-- Profile Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=yopzman&theme=radical&column=7&margin-w=15&no-bg=true](https://trophy.ryglcloud.net/?username=yopzman&theme=dark)" alt="github profile trophies" />
+    <img src="http://trophy.ryglcloud.net/?username=yopzman" alt="github profile trophies" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 <!-- Stats Cards (Side by Side) -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yopzman&show_icons=true&theme=radical" alt="Yovie's GitHub Stats" height="195px" />
+    <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yopzman)](https://github.com/anuraghazra/github-readme-stats)" alt="Yovie's GitHub Stats" height="195px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopzman&layout=compact&theme=radical" alt="Yovie's Top Languages" height="195px" />
