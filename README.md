@@ -65,6 +65,3 @@
 
 <br />
 
-<div align="center">
-  <sub>Built with 💖 by Antigravity | Theme: Radical</sub>
-</div>
