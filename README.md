@@ -39,22 +39,7 @@
 <!-- GitHub Stats & Analytics Section -->
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
-<!-- Stats Cards (Side by Side) -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yopzman)](https://github.com/anuraghazra/github-readme-stats)" alt="Yovie's GitHub Stats" height="195px" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopzman&layout=compact&theme=radical" alt="Yovie's Top Languages" height="195px" />
-  </a>
-</p>
-
-<!-- Streak Stats Card -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yopzman&theme=radical" alt="Yovie's Streak Stats" height="195px" />
-  </a>
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yopzman?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- Activity Graph -->
 <p align="center">
