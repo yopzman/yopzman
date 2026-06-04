@@ -10,7 +10,7 @@
 <!-- Profile Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yopzman&theme=radical&column=7&margin-w=15&no-bg=true" alt="github profile trophies" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=yopzman&theme=radical&column=7&margin-w=15&no-bg=true](https://trophy.ryglcloud.net/?username=yopzman&theme=dark)" alt="github profile trophies" />
   </a>
 </div>
 
