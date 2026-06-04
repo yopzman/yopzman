@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yovie Kobba</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Linux Nerd</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=yopzman">
