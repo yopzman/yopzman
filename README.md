@@ -33,28 +33,6 @@
 | 🌐 **Networking & Edge** | Nginx, Traefik, WireGuard, Cloudflare Tunnels |
 | 📊 **Observability** | Prometheus, Grafana, Loki, Uptime Kuma |
 
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <a href="https://github.com/yopzman">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yopzman&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="yopzman's GitHub Stats" />
-  </a>
-  <a href="https://github.com/yopzman">
-    <img height="170em" src="https://streak-stats.demolab.com/?user=yopzman&theme=radical&hide_border=true&border_radius=10&cache_seconds=86400" alt="yopzman's GitHub Streak" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=yopzman&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Yovie Kobba's GitHub Trophies" />
-</p>
-<p align="center">
-  <a href="https://github.com/yopzman">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yopzman&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=yopzman&theme=radical&radius=10" alt="yopzman's Activity Graph" />
-</p>
-
 ## 🧰 Toolbox
 
 <h3 align="center">🐳 Containers & Orchestration</h3>
